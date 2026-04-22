@@ -1,0 +1,20 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack-86329369.js",
+      "static/chunks/main-app-b0557220.js",
+      "static/chunks/app/page-a6eb638f.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-86329369.js",
+      "static/chunks/main-app-b0557220.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout-d93b4fa2.js"
+    ],
+    "/book/page": [
+      "static/chunks/webpack-86329369.js",
+      "static/chunks/main-app-b0557220.js",
+      "static/chunks/app/book/page-1851a36b.js"
+    ]
+  }
+}
